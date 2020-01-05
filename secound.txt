@@ -5,5 +5,5 @@ gfnfg
 ghfg
 this is child_branch
 
-this is c7
+this is c6
 >>>>>>> child_branch
